@@ -1,0 +1,2 @@
+
+java -Dfmc.schedule.delay.seconds=10 -Dlocal.data.ipclientmap=/home/perkasa/fmc2ovo/ipclientmap.csv -Dloggin.file=/home/perkasa/fmc2local/app.log -jar fmc2local-0.0.1-SNAPSHOT.jar
